@@ -1,0 +1,1 @@
+﻿package nautilida.buttons {	import nautilida.buttons.Button;	import flash.events.MouseEvent;		public class Next extends Button {		public function Next() {			addEventListener(MouseEvent.CLICK,onClick);		}		private function onClick(event:MouseEvent):void {			platform.next();		}	}}

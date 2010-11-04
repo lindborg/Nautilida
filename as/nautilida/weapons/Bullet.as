@@ -1,0 +1,1 @@
+﻿package nautilida.weapons {	import nautilida.weapons.Weapon;		public class Bullet extends Weapon {				public function Bullet() {			speedX = 10;		}	}}

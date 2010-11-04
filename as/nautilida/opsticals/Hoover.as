@@ -1,0 +1,1 @@
+﻿package nautilida.opsticals {	import nautilida.opsticals.Opstical;		public class Hoover extends Opstical {		public function Hoover() {			xdirection = 1;			xspeed = 3;			xoffset = 300;		}	}}

@@ -1,0 +1,1 @@
+﻿package nautilida.opsticals {	import nautilida.opsticals.Opstical;		public class Plade extends Opstical {		public function Plade() {			ydirection = -1;			yspeed = 3;			yoffset = 200;		}	}}

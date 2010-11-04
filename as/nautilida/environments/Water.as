@@ -1,0 +1,1 @@
+﻿package nautilida.environments {	import nautilida.environments.Environment;		public class Water extends Environment {		public function Water() {			accLeft = 5;			accRight = 5;			accUp = 5;			accDown = 5;			gravity = 2;			jumps = -1;			maxJumps = -1;		}	}}

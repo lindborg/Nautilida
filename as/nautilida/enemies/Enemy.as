@@ -1,0 +1,1 @@
+﻿package nautilida.enemies {	import flash.events.Event;	import nautilida.points.Point;		public class Enemy extends Point {				public function Enemy() {			value = 5;			play();		}		override public function die():void {			achive();			super.die();		}	}}
